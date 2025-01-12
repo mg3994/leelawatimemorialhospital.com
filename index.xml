@@ -114,8 +114,9 @@
       &quot;position&quot;: 3, 
       &quot;name&quot;: &quot;Contact Us&quot;, 
       &quot;item&quot;: &quot;<data:blog.homepageUrl/>#contact&quot; 
-      }
+      },
       <!-- TODO: add price range as well -->
+      &quot;priceRange&quot;: &quot;&#8377;&#8377;&quot; 
     ]
 }
 </script>
